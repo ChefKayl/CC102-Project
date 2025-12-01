@@ -83,11 +83,11 @@ int main() {
         }
 
         if (command == "exit") {
-            std::cout << "Exiting calculator. Goodbye!\n";
+            std::cout << "Goodbye!\n";
             break;
         }
         else if (command == "help") {
-            std::cout << "--- AVAILABLE COMMANDS ---\n";
+            std::cout << "=== AVAILABLE COMMANDS ===\n";
             std::cout << "add  : Addition (+)\n";
             std::cout << "sub  : Subtraction (-)\n";
             std::cout << "mul  : Multiplication (*)\n";
