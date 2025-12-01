@@ -74,7 +74,6 @@ int main() {
     std::cout << "//////////////////////" << std::endl;
     std::cout << "// 0 // . // = // + //" << std::endl;
     std::cout << "//////////////////////" << std::endl;
-    std::cout << "Type 'help' to see available commands.\n";
 
     while (true) {
         std::cout << "\n> ";
