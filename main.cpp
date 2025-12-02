@@ -72,7 +72,7 @@ int main() {
     std::cout << "//////////////////////" << std::endl;
     std::cout << "// 1 // 2 // 3 // - //" << std::endl;
     std::cout << "//////////////////////" << std::endl;
-    std::cout << "// 0 // . // = // + //" << std::endl;
+    std::cout << "// 0 // C // = // + //" << std::endl;
     std::cout << "//////////////////////" << std::endl;
 
     while (true) {
