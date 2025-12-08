@@ -61,19 +61,19 @@ void handle_div() {
 int main() {
     std::string command;
 
-    std::cout << "//////////////////////" << std::endl;
-    std::cout << "/// C++ Calculator ///" << std::endl;
-    std::cout << "//////////////////////" << std::endl;
-    std::cout << "//Type:'help'       //" << std::endl;
-    std::cout << "//////////////////////" << std::endl;
-    std::cout << "// 7 // 8 // 9 // x //" << std::endl;
-    std::cout << "//////////////////////" << std::endl;
-    std::cout << "// 4 // 5 // 6 // ÷ //" << std::endl;
-    std::cout << "//////////////////////" << std::endl;
-    std::cout << "// 1 // 2 // 3 // - //" << std::endl;
-    std::cout << "//////////////////////" << std::endl;
-    std::cout << "// 0 // C // = // + //" << std::endl;
-    std::cout << "//////////////////////" << std::endl;
+    std::cout << "######################" << std::endl;
+    std::cout << "### C++ Calculator ###" << std::endl;
+    std::cout << "######################" << std::endl;
+    std::cout << "##Type:'help'       ##" << std::endl;
+    std::cout << "######################" << std::endl;
+    std::cout << "## 7 ## 8 ## 9 ## * ##" << std::endl;
+    std::cout << "######################" << std::endl;
+    std::cout << "## 4 ## 5 ## 6 ## / ##" << std::endl;
+    std::cout << "######################" << std::endl;
+    std::cout << "## 1 ## 2 ## 3 ## - ##" << std::endl;
+    std::cout << "######################" << std::endl;
+    std::cout << "## 0 ## C ## = ## + ##" << std::endl;
+    std::cout << "######################" << std::endl;
 
     while (true) {
         std::cout << "\n> ";
