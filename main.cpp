@@ -64,7 +64,7 @@ int main() {
     std::cout << "######################" << std::endl;
     std::cout << "### C++ Calculator ###" << std::endl;
     std::cout << "######################" << std::endl;
-    std::cout << "##Type:'help'       ##" << std::endl;
+    std::cout << "## Type:'help'      ##" << std::endl;
     std::cout << "######################" << std::endl;
     std::cout << "## 7 ## 8 ## 9 ## * ##" << std::endl;
     std::cout << "######################" << std::endl;
